@@ -10,7 +10,7 @@ enum-compat==0.0.2
 jmespath==0.9.4
 pyasn1==0.4.7
 python-dateutil==2.8.0
-PyYAML==5.1.2
+PyYAML==5.4
 rsa==4.1
 s3transfer==0.2.1
 six==1.12.0
